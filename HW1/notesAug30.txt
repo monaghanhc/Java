@@ -1,0 +1,11 @@
+NOTES FOR CSCI 230:
+    Aug 30th, 2021
+        HW: Due Sunday midnight/ Binary search problem including 2 problems.
+        Submit code to leetcode and take a screenshot and show userid
+        Dont ZIP
+        HW: Zybook chapter 1, 2, and up to 3.5 due by Friday
+    
+
+    
+
+
